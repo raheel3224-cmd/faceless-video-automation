@@ -1,0 +1,12 @@
+faceless-video-automation/
+├─ README.md
+├─ requirements.txt
+├─ .env.example
+└─ src/
+   ├─ main.py
+   ├─ config.py
+   ├─ video.py
+   ├─ dropbox_upload.py
+   └─ publish/
+      ├─ youtube.py
+      └─ facebook_instagram.py
